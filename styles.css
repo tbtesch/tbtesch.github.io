@@ -354,9 +354,9 @@ li .description {
 	padding: 5px 0;
   	margin-top: 10px;
   	position: relative;
-  	z-index: 1;
+  	z-index: 2;
   	max-width: 95%;
-        line-height: 25px;
+        line-height: 15px;
 }
 
 .timeline .date{
