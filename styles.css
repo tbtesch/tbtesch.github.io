@@ -347,18 +347,6 @@ li .description {
   left: 43%;
 }
 
-.li .comp{
-	font-size: 16px;
-	color: #81899C;
-	font-weight: 350;
-	padding: 5px 0;
-  	margin-top: 10px;
-  	position: relative;
-  	z-index: 2;
-  	max-width: 95%;
-        line-height: 15px;
-}
-
 .timeline .date{
 	font-size: 14px;
 	color: #81899C;
