@@ -347,29 +347,10 @@ li .description {
   left: 43%;
 }
 
-li .subdescription {
-  display: none;
-  padding: 10px 0;
-  margin-top: 20px;
-  position: relative;
-  font-weight: normal;
-  z-index: 1;
-  max-width: 95%;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 25px;
-  color: #81899C;
-}
-.subdescription::before {
-  content: '';
-  width: 0; 
-  height: 0; 
-  border-left: 5px solid transparent;
-  border-right: 5px solid transparent;
-  border-bottom: 5px solid #f4f4f4;
-  position: absolute;
-  top: -5px;
-  left: 43%;
+.timeline .comp{
+	font-size: 16px;
+	color: #81899C;
+	font-weight: 400;
 }
 
 .timeline .date{
